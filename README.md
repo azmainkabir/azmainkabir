@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Azmain Kabir</h1>
-<h3 align="center">A passionate Computer Science and Engineering student from BRACU</h3>
+<h3 align="center">A passionate Graduate Student in Computer Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azmain-kabir-swaran&label=Profile%20views&color=0e75b6&style=flat" alt="azmain-kabir-swaran" /> </p>
 
 - 🔭 I’m currently working on **Neural Network**
-
-- 🌱 I’m currently learning **App Development and Full Stack Web Development**
 
 - 💬 Ask me about **anything :v**
 
