@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azmain-kabir-swaran&label=Profile%20views&color=0e75b6&style=flat" alt="azmain-kabir-swaran" /> </p>
 
-- 🔭 I’m currently working on **Neural Network**
+- 🔭 I’m currently working with large pre-trained **NLP, ML and Deep Learning Models**
 
 - 💬 Ask me about **anything :v**
 
