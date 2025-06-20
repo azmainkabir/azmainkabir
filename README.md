@@ -14,15 +14,15 @@
 <div style="text-align: left;">
   <span style="display: inline-block; vertical-align: top; min-width: 320px; max-width: 100%; margin-right: 10px;">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=azmainkabir&show_icons=true&locale=en&layout=compact&theme=radical" 
-      alt="Top Languages" 
+      src="https://github-readme-stats.vercel.app/api?username=azmainkabir&show_icons=true&locale=en&layout=compact&theme=radical" 
+      alt="GitHub Stats" 
       height="200"
     />
   </span>
   <span style="display: inline-block; vertical-align: top; min-width: 320px; max-width: 100%;">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=azmainkabir&show_icons=true&locale=en&theme=radical" 
-      alt="GitHub Stats" 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=azmainkabir&show_icons=true&locale=en&layout=compact&theme=radical" 
+      alt="Top Languages" 
       height="200"
     />
   </span>
