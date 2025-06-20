@@ -9,6 +9,8 @@
 
 - 🌐 Visit my personal website: [azmainkabir.com](https://azmainkabir.com).
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azmainkabir&show_icons=true&locale=en&layout=compact" alt="statistics" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azmainkabir&show_icons=true&locale=en" alt="statistics" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azmainkabir&show_icons=true&locale=en&layout=compact&theme=radical" alt="statistics"/>
+
+&nbsp;<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=azmainkabir&show_icons=true&locale=en&layout=compact&theme=radical" alt="statistics"/>
