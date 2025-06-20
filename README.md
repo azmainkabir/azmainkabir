@@ -15,12 +15,12 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=azmainkabir&show_icons=true&locale=en&layout=compact&theme=radical" 
     alt="GitHub Stats" 
-    height="200"
+    height="180"
   />
   &nbsp;
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=azmainkabir&show_icons=true&locale=en&layout=compact&theme=radical" 
     alt="Top Languages" 
-    height="200"
+    height="180"
   />
 </div>
