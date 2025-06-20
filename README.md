@@ -12,14 +12,14 @@
 <br>
 
 <div style="text-align: left;">
-  <span style="display: inline-block; vertical-align: top; min-width: 320px; max-width: 100%; margin-right: 20px;">
+  <span style="display: inline-block; vertical-align: top; margin-right: 10px;">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=azmainkabir&show_icons=true&locale=en&layout=compact&theme=radical" 
       alt="GitHub Stats" 
       height="200"
     />
   </span>
-  <span style="display: inline-block; vertical-align: top; min-width: 320px; max-width: 100%;">
+  <span style="display: inline-block; vertical-align: top;">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs?username=azmainkabir&show_icons=true&locale=en&layout=compact&theme=radical" 
       alt="Top Languages" 
@@ -27,3 +27,4 @@
     />
   </span>
 </div>
+
