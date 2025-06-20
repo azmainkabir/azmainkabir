@@ -11,20 +11,16 @@
 
 <br>
 
-<div style="text-align: left;">
-  <span style="display: inline-block; vertical-align: top; margin-right: 10px;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=azmainkabir&show_icons=true&locale=en&layout=compact&theme=radical" 
-      alt="GitHub Stats" 
-      height="200"
-    />
-  </span>
-  <span style="display: inline-block; vertical-align: top;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=azmainkabir&show_icons=true&locale=en&layout=compact&theme=radical" 
-      alt="Top Languages" 
-      height="200"
-    />
-  </span>
+<div align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=azmainkabir&show_icons=true&locale=en&layout=compact&theme=radical" 
+    alt="GitHub Stats" 
+    height="200"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=azmainkabir&show_icons=true&locale=en&layout=compact&theme=radical" 
+    alt="Top Languages" 
+    height="200"
+  />
 </div>
-
