@@ -12,7 +12,7 @@
 <br>
 
 <div style="text-align: left;">
-  <span style="display: inline-block; vertical-align: top; min-width: 320px; max-width: 100%; margin-right: 10px;">
+  <span style="display: inline-block; vertical-align: top; min-width: 320px; max-width: 100%; margin-right: 20px;">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=azmainkabir&show_icons=true&locale=en&layout=compact&theme=radical" 
       alt="GitHub Stats" 
