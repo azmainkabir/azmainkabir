@@ -8,19 +8,3 @@
 - 💬 Ask me about **anything**! 😄
 
 - 🌐 Visit my personal website: [azmainkabir.com](https://azmainkabir.com).
-
-<br>
-
-<div align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=azmainkabir&show_icons=true&locale=en&layout=compact&theme=radical" 
-    alt="GitHub Stats" 
-    height="192"
-  />
-  &nbsp;
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=azmainkabir&show_icons=true&locale=en&layout=compact&theme=radical" 
-    alt="Top Languages" 
-    height="192"
-  />
-</div>
